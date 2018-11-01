@@ -1,1 +1,2 @@
-# Aula-17--Modelando-a-Vari-ncia
+# 17-Modelando_Volatilidades
+MOdelos GARCH Aplicados
